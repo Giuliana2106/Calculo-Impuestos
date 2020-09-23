@@ -50,7 +50,7 @@ namespace Calculo_Impuestos
                     }
                     else
                     {
-                        total = bon.bono14(total, Pedir());
+                        total = bon.bono_14(total, Pedir());
                     }
                 }
                 else if (t == 'a')

@@ -5,11 +5,11 @@ using System.Text;
 
 namespace Calculo_Impuestos
 {
-    class ISR
+    class Aguin
     {
-        public double isr(double total, double 0.05)
+        public double aguinaldo(double total, int dias, int dias_año)
         {
-            return (total * 0.05);
+            return (total * dias / dias_año);
         }
     }
 }

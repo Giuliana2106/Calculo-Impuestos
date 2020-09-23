@@ -7,7 +7,7 @@ namespace Calculo_Impuestos
 {
     class IVA
     {
-        public double Iva(double total, char 1.12)
+        public double iva(double total, double 1.12)
         {
             return (total / 1.12);
         }

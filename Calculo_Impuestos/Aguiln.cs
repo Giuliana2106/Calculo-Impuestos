@@ -5,11 +5,7 @@ using System.Text;
 
 namespace Calculo_Impuestos
 {
-    class ISR
+    class Aguiln
     {
-        public double isr(double total, double 0.05)
-        {
-            return (total * 0.05);
-        }
     }
 }

@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aguiln.cs" />
+    <Compile Include="Aguin.cs" />
     <Compile Include="Aguinaldo.cs" />
     <Compile Include="Bono14.cs" />
     <Compile Include="ISR.cs" />
